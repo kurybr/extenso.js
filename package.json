@@ -1,5 +1,5 @@
 {
-  "name": "@ext-contabilidade/ex",
+  "name": "extenso",
   "version": "1.0.1",
   "description": "Escrever números por extenso.",
   "main": "dist/extenso.min.js",
@@ -10,7 +10,7 @@
     "index.d.ts"
   ],
   "engines": {
-    "node": "16.x",
+    "node": "^16.x",
     "npm": "You must use yarn in this project!",
     "yarn": "^1.22.x"
   },
